@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Bem vindo ao meu perfil. 👋
 
 - 🔭 Trabalho na área de finanças estudantis
 - 🌱 Estou estudando React
