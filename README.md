@@ -3,7 +3,6 @@
 - 🔭 Trabalho na área de finanças estudantis
 - 🌱 Estou estudando javascript e ainda decidindo a melhor biblioteca para aprofundar
 - 👯 Procuro um novo caminho para entrar para o mercado de trabalho
-- 💬 Pergunta ai!!
 - 😄 Pronouns: Ele/Dele
 
 <div>
