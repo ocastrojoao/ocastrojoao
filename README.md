@@ -5,11 +5,11 @@
 
 <div>
   <a href="https://github.com/ocastrojoao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocastrojoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocastrojoao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ocastrojoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocastrojoao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  <div style="display: center"><br>
+  <div style="display: inline_blockr"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="joao-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  
