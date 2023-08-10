@@ -10,19 +10,18 @@
 </div>
   
   <div style="display: inline_blockr"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" 
+  <img align="center" alt="Joao-webstorm" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-  <img align="center" alt="Joao-webstorm" height="30" width="40"     
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Joao-xcode" height="30" width="40"     
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
+  <img align="center" alt="Joao-js" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="joao-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  
-  <img align="center" alt="Joao-swift" height="30" width="40"
+  <img align="center" alt="joao-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  
+  <img align="center" alt="Joao-angular" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">  
-  <img align="center" alt="Joao-angular" height="30" width="40"     
+  <img align="center" alt="Joao-csharp" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Joao-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
   
   ##
