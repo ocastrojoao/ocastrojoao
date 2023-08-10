@@ -17,7 +17,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">  
   <img align="center" alt="Joao-angular" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Joao-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="Joao-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
   
   ##
