@@ -11,10 +11,10 @@
   
   <div style="display: inline_blockr"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wewbstorm/webstorm-original.svg">
-  <img align="center" alt="Joao-dotnet" height="30" width="40"     
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+  <img align="center" alt="Joao-webstorm" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
-  <img align="center" alt="Joao-dotnet" height="30" width="40"     
+  <img align="center" alt="Joao-xcode" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="joao-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  
