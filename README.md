@@ -9,8 +9,8 @@
 </div>
   
   <div style="display: inline_blockr"><br>
-  <img align="center" alt="Joao-webstorm" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+  <img align="center" alt="Joao-python" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-xcode" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Joao-js" height="30" width="40"     
