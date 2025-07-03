@@ -1,7 +1,6 @@
 ### Olá! Bem vindo ao meu perfil. 👋
 
-- 🔭 Trabalho na área de finanças estudantis
-- 🌱 Sou desenvolvedor indie web e app mobile.
+- 🔭 Trabalho como analista de dados
 
 <div>
   <a href="https://github.com/ocastrojoao">
