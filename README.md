@@ -11,16 +11,12 @@
   <div style="display: inline_blockr"><br>
   <img align="center" alt="Joao-python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-xcode" height="30" width="40"     
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
-  <img align="center" alt="Joao-js" height="30" width="40"     
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="joao-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  
-  <img align="center" alt="Joao-angular" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">  
-  <img align="center" alt="Joao-csharp" height="30" width="40"     
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Joao-apachespark" height="30" width="40"     
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Joao-r" height="30" width="40"     
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Joao-scala" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
 </div>
   
   ##
