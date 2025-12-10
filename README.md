@@ -2,15 +2,10 @@
 
 - 🔭 Trabalho como analista de dados
 
-<div>
-  <a href="https://github.com/ocastrojoao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocastrojoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocastrojoao&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
   
   <div style="display: inline_blockr"><br>
-  <img align="center" alt="Joao-python" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img align="center" alt="Joao-apachespark" height="30" width="40"     
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
   <img align="center" alt="Joao-r" height="30" width="40"     
